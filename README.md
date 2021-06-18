@@ -17,10 +17,11 @@
   - IONIC + React: i'm exercising hard
 
 - 😄 Perseverance:
-  - I have inherited an ancestral technique of perseverance, becoming harder and smarter after an infinite scroll of errors during development process   to learn how to do the best.
-  -
+  - I have inherited an ancestral technique of perseverance, becoming harder from family 
+  - Smarter after an infinite scroll of errors during development process, including daily, just trying to do the best.
+
 - 😄 Life:  Life
-  - Life is the most important tech. Then, safe the planet and make the best to averybody!
+  - Life is the most important tech. Then, safe the planet and make the best to everybody and fight for a better world!
 
 ### 🌱 Biotech is Gozilla!!!
 - 🌱 I began opening brooken old devices to understand and repair...
