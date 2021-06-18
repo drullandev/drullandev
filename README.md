@@ -1,11 +1,9 @@
-### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-
+### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 - ⚡ I'm a passionated and happy programmer ^_^
 - ⚡ Life is to short to be unhappy with tech ¬_¬! Just embrace it!
 - ⚡ I am focused on personal growth through the application of software and hardware solutions
 
-### Techs  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
-
+### Techs  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
 - 😄 PHP: Able to do anything but please bitch, free of the constant wheels reinventions!.
   - I believe in Laravel and Symphony then well, I don't prefer to reinvent everything having a nice and flexible framework backguarding me.
   - I love the best practices and the clean code, and it is nice to have something to enjoy in this world!
@@ -13,7 +11,7 @@
 - 😄 Javascript: As an inseparable friend of the explorers, who was able to avoid to learn a big amount of technics to perform all th epossible and desiderable actions over a front ezxperience flows.
   - REACT:  i'm exercising hard
   - Vue: A little bit of practice, cause I was doing some manteinances and little modules
-  - JQuery... And Vanilla Gorilla! hahaha
+  - JQuery yeah... And Vanilla Gorilla! hahaha
 
 - 😄 Multiplatform: I Love it!
   - IONIC + React: i'm exercising hard
