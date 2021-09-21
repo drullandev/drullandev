@@ -4,7 +4,7 @@
 - ⚡ I am focused on my personal growth through the application of nice software solutions
 
 ### Techs  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
-- 😄 PHP: I'm able to do many things but please, I don't want to stay doing thinks like create a propietary framework for an small company, I'm good but not thats skilled!.
+- 😄 PHP: I'm able to do many things but please, I don't want to stay doing thinks like create a propietary framework for an small company, because I love to use some done helpfull resources.
   - I believe in Laravel and Symphony, also in some other small like Slim or CakePHP
   - I love the best practices and the clean code, and it is nice to have something to enjoy in this world!
 
