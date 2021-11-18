@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 - ⚡ I'm a passionated and experienced happy programmer ^_^
 - ⚡ Life is to short to waste it being unhappy, just laught because you are still alive!
