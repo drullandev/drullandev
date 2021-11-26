@@ -1,21 +1,25 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-- ⚡ I'm a passionated and experienced happy programmer ^_^
-- ⚡ Life is to short to waste it being unhappy, just laught because you are still alive!
-- ⚡ I am focused on my personal growth through the application of nice software solutions
+- ⚡ I'm a passionated and happy programmer ^_^
+- ⚡ Life is to short to waste it being unhappy, just laught because you are still alive doing nice and clean code!
+- ⚡ Nowadays I am hardly focused on my personal growth through the creation of better software solutions in Ionic salted with React + TypeStript
 
 ### Techs  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
-- 😄 PHP: I'm able to do many things but please, I don't want to stay doing thinks like create a propietary framework for an small company, because I love to use some done helpfull resources.
-  - I believe in Laravel and Symphony, also in some other small like Slim or CakePHP
-  - I love the best practices and the clean code, and it is nice to have something to enjoy in this world!
-
-- 😄 Javascript: As an inseparable friend of the explorers, who was able to avoid to learn a big amount of technics to perform all the possible and desiderable actions over a front experience flows?.
-  - REACT:  I'm exercising hard. I created by my own a Mapbox routes editor and an Ionic React wit TypeScript App.
-  - JQuery yeah... And Vanilla!
 
 - 😄 Multiplatform: I Love it!
   - IONIC + React + TypeScript: i'm exercising hard!!
+   
+- 😄 PHP: I love this lang and I been doing well with this for too much years. I'm agree and desire to use Frameworks, because I'm faithfull about the hability to get better practices over the projects and teams, being easier be happy working over the pressure of a project.
+  - I believe in Laravel and Symphony, also in some other small like Slim, Lumen or CakePHP for some purposes.
+  - I love the best practices and the clean code, and it is nice to have something to enjoy in this world!
+
+- 😄 Javascript: I was using javascript in all my projects, but never before I was focused in the use of javascript for extensive use and getting it as the absolute unique language required to success. Then, today I'm doing it as a must, gropwing daily inm this purposes.
+  - REACT:  I'm exercising hard. I created by my own a Mapbox routes editor and an Ionic React wit TypeScript App, also som toys, nothing interesting enough.
+  - VUE: A little bit, thank you. IS intuitive, if you have other lines of code near, obviously you will find.
+  - JQuery: bye bye o.o also bye bye vanilla js....
+
+
 
 - 😄 Perseverance:
   - I have a big amount off perseverance, by familiar inheritance
