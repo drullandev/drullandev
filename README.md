@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=radical)
 
 ### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 - ⚡ I'm a passionated and happy programmer ^_^
@@ -18,7 +18,6 @@
   - REACT:  I'm exercising hard. I created by my own a Mapbox routes editor and an Ionic React wit TypeScript App, also som toys, nothing interesting enough.
   - VUE: A little bit, thank you. IS intuitive, if you have other lines of code near, obviously you will find.
   - JQuery: bye bye o.o also bye bye vanilla js....
-
 
 
 - 😄 Perseverance:
@@ -55,3 +54,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev)](https://github.com/anuraghazra/github-readme-stats)
