@@ -7,6 +7,8 @@
 
 ### Techs  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 😄 Multiplatform: I Love it!
   - IONIC + React + TypeScript: i'm exercising hard!!
    
@@ -19,6 +21,8 @@
   - VUE: A little bit, thank you. IS intuitive, if you have other lines of code near, obviously you will find.
   - JQuery: bye bye o.o also bye bye vanilla js....
 
+
+### Other  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
 
 - 😄 Perseverance:
   - I have a big amount off perseverance, by familiar inheritance
@@ -54,5 +58,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
