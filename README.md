@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=radical)
 
 ### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-- ⚡ I'm a passionated and happy programmer ^_^
+- ⚡ I a passionated and happy programmer ^_^
 - ⚡ Life is to short to waste it being unhappy, just laught because you are still alive doing nice and clean code!
 - ⚡ Nowadays I am hardly focused on my personal growth through the creation of better software solutions in Ionic salted with React + TypeStript
 
