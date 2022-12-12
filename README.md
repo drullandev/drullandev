@@ -9,19 +9,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😄 Multiplatform: I Love it!
-  - IONIC + React Hooks + TypeScript: I'm was exercising really hard!!
-   
 - 😄 PHP: I love this lang and I been doing well with it for many years. I'm agree and desire to use Frameworks, because I'm faithfull about the hability to get better practices over the developments and teams, being easier to be happy working over the development process of the projects.
   - I believe in Laravel and Symfony, I began really early to practice Symfony 1.3. and later Laravel 5. Additionally other well known as Slim, Lumen or CakePHP.
   - I love the best practices and the clean code, and it is nice to have something like the well performed code to enjoy in this world!
 
-- 😄 JavaScript: I was using javascript near to all my projects, but never before I was focused in the use of JavaScript for extensive use and getting it as the absolute unique language required to success along the entire product. Then, today I'm doing it as a must, increasing my practice dialy over this purposes.
+- 😄 Multiplatform: I Love it!
+  - IONIC + React Hooks + TypeScript: I'm was exercising really hard!!
+
+- 😄 JavaScript - CSS: I was using javascript near to all my projects, but never before I was focused in the use of JavaScript for extensive use and getting it as the absolute unique language required to success along the entire product. Then, today I'm doing it as a must, increasing my practice dialy over this purposes.
   - REACT:  I'm exercising hard. I created by my own a Mapbox routes editor and an Ionic React with a TypeScript PWA, also some basic boilerplates for future projects.
   - VUE: I was using it for this last three years. Is a great one, simple and intuitive. But I prefer React because looks prettier.
   - JQuery: bye bye o.o also bye bye vanilla js....
-
-- 😎 CSS: I can write nice css and scss but over a closed structure and progressivelly, never as main.
+  - I can write nice CSS, but I like to use grid frameworks as backguard.
 
 ### Other  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
 
