@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=transparent)
+
+
 ### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 - ⚡ I'm a passionated and happy programmer 😊
 - ⚡ Life is too short to waste it being unhappy. Smile with joy as we continue to share clean and nice code developments that can serve as good example to other programmers.
