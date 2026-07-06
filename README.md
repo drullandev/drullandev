@@ -1,6 +1,10 @@
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent&locale=es)
+### GitHub Stats 📊
+
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent&locale=es) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=transparent&locale=es)](https://github.com/stats-organization/github-stats-extended)
 
 ![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue&style=flat-square)
+
+---
 
 ### Hello world! 👋
 • ⚡ I'm a passionate and happy Apps Developer from Mallorca! 😊
@@ -8,8 +12,6 @@
 • ⚡ Lately, I've been diving deep into the Ionic Framework, nicely salted with React and TypeScript. 👌
 
 ### Tech Stack 💻
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=transparent&locale=es)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
