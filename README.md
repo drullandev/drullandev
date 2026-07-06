@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=transparent&hide_border=true&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=default&locale=es)
 
 ![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue&style=flat-square)
 
@@ -9,7 +9,7 @@
 
 ### Tech Stack 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=transparent&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=default&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
