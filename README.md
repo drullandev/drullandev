@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent)
+
+![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue)
 
 ### Hello world! 👋
 • ⚡ I'm a passionate and happy Apps Developer from Mallorca! 😊
@@ -8,6 +10,8 @@
 ### Tech Stack 💻
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 • **PHP**: My trusted companion for years. I'm a strong advocate for frameworks because I believe in adopting best practices to make the development process smoother and happier. 
   - I have a deep appreciation for Laravel and Symfony (started back in 1.3!), along with Slim, Lumen, and CakePHP. 
@@ -35,15 +39,19 @@
 ### Let's build something great! 🤘
 Just let me program happily. When the vibe is right, magic and ingenious features are successfully developed and deployed—guaranteed!
 
-<!--
-**drullandev/drullandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-### Current Status (Updated):
+### Current Status 🚀
 
-- 🔭 FULL TIME: Working face-to-face at IKEA SARTON.
-- 🔭 FREELANCE: Teaming up with Hoponboard to build a multiplatform Ionic PWA and Strapi CMS designed to assist in boat handling.
-- 🔭 PRACTICE TIME: Working on my personal multiplatform app-and-cms projects almost every day.
-- 🤔 Always looking to connect and help others in the tech community. Even when facing the unknown, I can figure out how to make things run.
-- 💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does.
-- 📫 How to reach me: Send me an email at drullan.dev@gmail.com
--->
+- 🔭 **FULL TIME**: Working face-to-face at IKEA SARTON
+- 🔭 **FREELANCE**: Teaming up with Hoponboard to build a multiplatform Ionic PWA and Strapi CMS designed to assist in boat handling
+- 🔭 **PRACTICE TIME**: Working on my personal multiplatform app-and-cms projects almost every day
+- 🤔 Always looking to connect and help others in the tech community. Even when facing the unknown, I can figure out how to make things run
+
+---
+
+### Get in Touch �
+
+- �💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
+- � **Email**: [drullan.dev@gmail.com](mailto:drullan.dev@gmail.com)
+- 🌐 **GitHub**: [drullandev](https://github.com/drullandev)
