@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=transparent&hide_border=true&locale=es)
 
-![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue&style=flat-square)
 
 ### Hello world! 👋
 • ⚡ I'm a passionate and happy Apps Developer from Mallorca! 😊
@@ -9,7 +9,7 @@
 
 ### Tech Stack 💻
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=transparent&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -52,6 +52,6 @@ Just let me program happily. When the vibe is right, magic and ingenious feature
 
 ### Get in Touch �
 
-- �💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
+- �� Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
 - � **Email**: [drullan.dev@gmail.com](mailto:drullan.dev@gmail.com)
 - 🌐 **GitHub**: [drullandev](https://github.com/drullandev)
