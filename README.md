@@ -1,59 +1,49 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drullandev&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent)
 
+### Hello world! 👋
+• ⚡ I'm a passionate and happy Apps Developer from Mallorca! 😊
+• ⚡ Life is too short to write bad code. I believe in sharing clean, elegant solutions that inspire others and make the development process a joy for the whole team.
+• ⚡ Lately, I've been diving deep into the Ionic Framework, nicely salted with React and TypeScript. 👌
 
-### Hello world 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-- ⚡ I'm a passionated and happy programmer 😊
-- ⚡ Life is too short to waste it being unhappy. Smile with joy as we continue to share clean and nice code developments that can serve as good example to other programmers.
-- ⚡ I was working hard this last two years creating some software solutions with the Ionic Framework, in my case salted with React + TypeScript 👌
+### Tech Stack 💻
 
-### Techs  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drullandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+• **PHP**: My trusted companion for years. I'm a strong advocate for frameworks because I believe in adopting best practices to make the development process smoother and happier. 
+  - I have a deep appreciation for Laravel and Symfony (started back in 1.3!), along with Slim, Lumen, and CakePHP. 
 
-- 😄 PHP: I love this lang and I been doing well with it for many years. I'm agree and desire to use Frameworks, because I'm faithfull about the hability to get better practices over the developments and teams, being easier to be happy working over the development process of the projects.
-  - I believe in Laravel and Symfony, I began really early to practice Symfony 1.3. and later Laravel 5. Additionally other well known as Slim, Lumen or CakePHP.
-  - I love the best practices and the clean code, and it is nice to have something like the well performed code to enjoy in this world!
+• **Multiplatform**: Absolutely loving it!
+  - **Ionic + React Hooks + TypeScript**: I've been exercising really hard on this stack and building robust PWA solutions.
 
-- 😄 Multiplatform: I Love it!
-  - IONIC + React Hooks + TypeScript: I'm was exercising really hard!!
+• **JavaScript & CSS**: Shifting from occasional use to making it the absolute core of my stack.
+  - **React**: I'm heavily focused here. I've built a Mapbox routes editor, an Ionic React TypeScript PWA, and several boilerplates for future projects.
+  - **Vue**: I used it extensively for the last three years. It's intuitive and great, though I lean towards React lately because I prefer its component structure.
+  - **CSS**: I write clean CSS and love backing it up with modern grid frameworks.
 
-- 😄 JavaScript - CSS: I was using javascript near to all my projects, but never before I was focused in the use of JavaScript for extensive use and getting it as the absolute unique language required to success along the entire product. Then, today I'm doing it as a must, increasing my practice dialy over this purposes.
-  - REACT:  I'm exercising hard. I created by my own a Mapbox routes editor and an Ionic React with a TypeScript PWA, also some basic boilerplates for future projects.
-  - VUE: I was using it for this last three years. Is a great one, simple and intuitive. But I prefer React because looks prettier.
-  - JQuery: bye bye o.o also bye bye vanilla js....
-  - I can write nice CSS, but I like to use grid frameworks as backguard.
+### The Mindset 🧠
 
-### Other  💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬💬
+• **Perseverance**: I don't back down from a tricky bug. I've grown strong through endless debugging sessions, always researching the most scalable and effortless ways to reduce functional confusion and technical debt.
+• **Life & Art**: Life is the ultimate framework. Outside of code, I'm a metalhead, a musician enjoying local jam sessions, and a bit of a philosopher. Save the planet, be kind to every creature, and let's build a better world!
 
-- 😄 Perseverance:
-  - I am very persistent when it comes to achieving my goals and I do not give up when faced with the challenges that developing functional and efficient code presents.
-  - I grew strong after endless bug scrolling during the development process, as well as in my research, trying to find the most comfortable way to scale and effortlessly reducing functional confusion and code overhead..
+### 🌱 Origin Story
 
-- 😄 Life:  Life
-  - Life is the most important tech. Then, safe the planet and consieder to make the best to every single creature. Fight for a better world!
+• 🌱 It all started at age 11, dismantling broken devices to figure out how they worked and how to fix them.
+• 🌱 I heard about programming, and it felt like a world somewhere between the mystical and the magical. It wasn't until I saw *The Matrix* that I realized programming was the exact spark I needed to get the best out of myself!
+• 🌱 Since the summer of 2008, I've been riding the wave of tech evolution in my city, turning a passion into a full-blown career.
+• 🌱 When people ask for help, I put everything I have into helping my comrades achieve their goals without neglecting my own tasks.
 
-### 🌱 Bio-tech!!!
+### Let's build something great! 🤘
+Just let me program happily. When the vibe is right, magic and ingenious features are successfully developed and deployed—guaranteed!
 
-- 🌱 I began on tech when I was a 11 yo child opening brooken old devices to understand and fix it...
-- 🌱 When people ask me for help, I put everything on my part in order to achieve the goal of my comrade, without neglecting my occupations.
-- 🌱 I heard about programming, and it was a very interesting world that was between the mystical and the magical for me, filling me with inspiration.
-- 🌱 It wasn't until I saw the Matrix that I understood that programming met the conditions to motivate me and make me get the best out of myself!.
-- 🌱 In my city, soft tech came from nothing to a huge network of jobs and opportunities, and over the 2008 summer I got the loop until now!.
-- ⚡ I have no life! :D
-- ⚡ Help! :D
-
-### Kind regards!
-##3 Just let me programm happyly. This way, magic and ingenious features will be succesfully programmed and deployed, granted!!
 <!--
 **drullandev/drullandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Here  more details about my current status 12-2022:
+### Current Status (Updated):
 
-- 🔭 FULL TIME: I work at IKEA SARTON face-to-face.
-- 🔭 FREELANCE: I work with Hoponboard team programming the multiplatform Ionic PWA and Strapi CMS for designed for the purpose of assisting in the handling of boats.
-- 🔭 PRACTICE TIME: I work on my app-and-cms multiplatoform project almost every day...
-- 🤔 I’m looking for help with everything to each others in tech relationship, even when I ignore everything I can get the point to run...
-
-- 💬 Don't hesitate to contact me; If I don't have an answer, maybe I know who...!
-- 📫 How to reach me: Send me a email to drullan.dev@gmail.com
+- 🔭 FULL TIME: Working face-to-face at IKEA SARTON.
+- 🔭 FREELANCE: Teaming up with Hoponboard to build a multiplatform Ionic PWA and Strapi CMS designed to assist in boat handling.
+- 🔭 PRACTICE TIME: Working on my personal multiplatform app-and-cms projects almost every day.
+- 🤔 Always looking to connect and help others in the tech community. Even when facing the unknown, I can figure out how to make things run.
+- 💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does.
+- 📫 How to reach me: Send me an email at drullan.dev@gmail.com
 -->
