@@ -1,15 +1,13 @@
-### GitHub Stats 📊
-
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent&locale=es) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=transparent&locale=es)](https://github.com/stats-organization/github-stats-extended)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drullandev&theme=transparent)](https://git.io/streak-stats) ![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue&style=flat-square)
-
----
-
 ### Hello world! 👋
 • ⚡ I'm a passionate and happy Apps Developer from Mallorca! 😊
 • ⚡ Life is too short to write bad code. I believe in sharing clean, elegant solutions that inspire others and make the development process a joy for the whole team.
 • ⚡ Lately, I've been diving deep into the Ionic Framework, nicely salted with React and TypeScript. 👌
+
+### GitHub Stats 📊
+
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=drullandev&show_icons=true&theme=transparent&locale=es) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=drullandev&layout=compact&theme=transparent&locale=es)](https://github.com/stats-organization/github-stats-extended)
+
+---
 
 ### Tech Stack 💻
 
@@ -25,6 +23,8 @@
   - **React**: I'm heavily focused here. I've built a Mapbox routes editor, an Ionic React TypeScript PWA, and several boilerplates for future projects.
   - **Vue**: I used it extensively for the last three years. It's intuitive and great, though I lean towards React lately because I prefer its component structure.
   - **CSS**: I write clean CSS and love backing it up with modern grid frameworks.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drullandev&theme=transparent)](https://git.io/streak-stats)
 
 ### The Mindset 🧠
 
@@ -53,6 +53,8 @@ Just let me program happily. When the vibe is right, magic and ingenious feature
 ---
 
 ### Get in Touch 📬
+
+![Profile views](https://komarev.com/ghpvc/?username=drullandev&color=blue&style=flat-square)
 
 - 💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
 - 📧 **Email**: [drullan.dev@gmail.com](mailto:drullan.dev@gmail.com)
