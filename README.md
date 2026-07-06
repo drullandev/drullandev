@@ -50,8 +50,8 @@ Just let me program happily. When the vibe is right, magic and ingenious feature
 
 ---
 
-### Get in Touch �
+### Get in Touch 📬
 
-- �� Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
-- � **Email**: [drullan.dev@gmail.com](mailto:drullan.dev@gmail.com)
+- 💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
+- 📧 **Email**: [drullan.dev@gmail.com](mailto:drullan.dev@gmail.com)
 - 🌐 **GitHub**: [drullandev](https://github.com/drullandev)
