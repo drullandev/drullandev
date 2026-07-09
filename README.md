@@ -24,7 +24,7 @@
   - **Vue**: I used it extensively for the last three years. It's intuitive and great, though I lean towards React lately because I prefer its component structure.
   - **CSS**: I write clean CSS and love backing it up with modern grid frameworks.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drullandev&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=drullandev&theme=transparent)](https://git.io/streak-stats)
 
 ### The Mindset 🧠
 
@@ -58,4 +58,5 @@ Just let me program happily. When the vibe is right, magic and ingenious feature
 
 - 💬 Don't hesitate to reach out! If I don't have the answer, I probably know someone who does
 - 📧 **Email**: [drullan.dev@gmail.com](mailto:drullan.dev@gmail.com)
-- 🌐 **GitHub**: [drullandev](https://github.com/drullandev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-drullandev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drullandev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-drullandev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drullandev)
