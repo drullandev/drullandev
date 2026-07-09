@@ -24,7 +24,7 @@
   - **Vue**: I used it extensively for the last three years. It's intuitive and great, though I lean towards React lately because I prefer its component structure.
   - **CSS**: I write clean CSS and love backing it up with modern grid frameworks.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=drullandev&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drullandev&theme=transparent)](https://git.io/streak-stats)
 
 ### The Mindset 🧠
 
